@@ -1,3 +1,6 @@
+<img width="576" height="325" alt="Image" src="https://github.com/user-attachments/assets/48ee5f44-6c90-4ba2-b845-6f67871a1e48" />
+
+
 #  👋 Welcome
 ## 👤 About Me
 This is my own github profile, I am an information engineer student in IUST-Syria, loking to be a full stack web developer with the all features
