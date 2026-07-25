@@ -1,6 +1,6 @@
 #  👋 Welcome
 ## 👤 About Me
-I am Ayman Aldabbas, this is my own github profile, I am an information engineer student in IUST-Syria, loking to be a full stack web developer 
+I am Ayman Aldabbas, this is my own github profile, I am an information engineer student in IUST<img width="15" height="15" alt="Image" src="https://github.com/user-attachments/assets/e7863ec6-9ac6-44c7-9dd4-4938567b7fc2" />-Syria, loking to be a full stack web developer 
 with the all featuresthe world needs now and in the future, and planning to join app development world in the future.
 
 ## ✨ My skills:
