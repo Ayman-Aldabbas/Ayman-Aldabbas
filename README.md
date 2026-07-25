@@ -1,7 +1,7 @@
 #  👋 Welcome
 ## 👤 About Me
 This is my own github profile, I am an information engineer student in IUST-Syria, loking to be a full stack web developer with the all features
-the world needs now and in the future.
+the world needs now and in the future, and planning to join app development world in the future.
 
 ## ✨ My skills:
 <a href="#">
@@ -54,5 +54,4 @@ the world needs now and in the future.
 </a>
 <a href="https://www.linkedin.com/in/ayman-aldabbas-133366425/">
   <img width="79" height="23" alt="Image" src="https://github.com/user-attachments/assets/65b459d2-b3b0-4514-9a04-48b5ef9ada3a" />
-
 </a>
