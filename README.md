@@ -7,6 +7,6 @@
 <p>
   my skills:
   <a href="#">
-  ![image alt](https://github.com/Ayman-Aldabbas/Ayman-Aldabbas/blob/a78237f16521b564772ad596eca510684d3db8cc/C%2B%2B.png)
+    ![image alt](https://github.com/Ayman-Aldabbas/Ayman-Aldabbas/blob/1b98aadc6dbc19f1eb79f2a3a2a4ff1082f5e951/C%2B%2B.png)
   </a>
 </p>
