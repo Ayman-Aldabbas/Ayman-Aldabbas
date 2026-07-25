@@ -52,7 +52,7 @@ the world needs now and in the future.
 <a href="https://github.com/Ayman-Aldabbas">
   <img width="89" height="23" alt="Image" src="https://github.com/user-attachments/assets/ad08102e-5569-42ea-adf5-7de7f5c3c239" />
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/ayman-aldabbas-133366425/">
   <img width="79" height="23" alt="Image" src="https://github.com/user-attachments/assets/65b459d2-b3b0-4514-9a04-48b5ef9ada3a" />
 
 </a>
