@@ -6,5 +6,4 @@
 </p>
 <p>
   my skills:
-    ![image](https://github.com/Ayman-Aldabbas/Ayman-Aldabbas/blob/1b98aadc6dbc19f1eb79f2a3a2a4ff1082f5e951/C%2B%2B.png)
-</p>
+<img width="1400" height="933" alt="Image" src="https://github.com/user-attachments/assets/17a3baa5-00c3-4edd-92ba-3a396d930973" /></p>
