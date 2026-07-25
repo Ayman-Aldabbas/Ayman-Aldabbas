@@ -45,6 +45,8 @@ the world needs now and in the future, and planning to join app development worl
 - Rest APIs
 
 ## 📲 My profiles
+<div align="center">
+  <p>
 <a href="https://www.instagram.com/_aymanaldabbas/">
   <img width="107" height="23" alt="Image" src="https://github.com/user-attachments/assets/73ad7489-4afd-4c57-99cd-90f2e23b856c" />
 
@@ -55,3 +57,5 @@ the world needs now and in the future, and planning to join app development worl
 <a href="https://www.linkedin.com/in/ayman-aldabbas-133366425/">
   <img width="79" height="23" alt="Image" src="https://github.com/user-attachments/assets/65b459d2-b3b0-4514-9a04-48b5ef9ada3a" />
 </a>
+</p>
+</div>
